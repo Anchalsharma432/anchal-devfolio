@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Globe from 'react-globe.gl'
 import Button from '../components/Button'
 
@@ -28,7 +28,9 @@ const About = () => {
                     <img src='/assets/grid2.png' alt="grid-2" className='w-full sm:h-[276px] h-fit object-contain'/>
                     <div>
                         <p className='grid-headtext'>TechStack</p>
-                        <p className='grid-subtext'>I have expertise in React, Next.js, Node.js, Express.js, MongoDB, and AI technologies. I also have experience in Python, PHP, and Java.</p>
+                        <p className='grid-subtext'>  I have expertise in React, Next.js, Node.js, Express.js, MongoDB, AWS, and CI/CD Pipelines. 
+  I also have experience in Python, C#, and Java. 
+  Passionate about building scalable and secure applications.</p>
                     </div>
                  </div>
             </div>
